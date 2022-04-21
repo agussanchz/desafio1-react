@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+.primera-p {
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+}
+
+.segunda-p {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: blueviolet;
+    height: 100vw;
+}
+
+h2 {
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+}
